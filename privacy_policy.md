@@ -1,7 +1,7 @@
-Terms and Privacy Policy
-Last updated: January 21, 2024
+Privacy Policy
+Last updated: June 21, 2024
 
-This Terms and Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service.
+This Privacy Policy describes our policies and procedures on the collection, use and disclosure of your information when you use the Service.
 
 Interpretation and Definitions
 Interpretation
@@ -22,7 +22,7 @@ For the purposes of this Privacy Policy:
     more of the shares, equity interest or other securities entitled to vote
     for election of directors or other managing authority.
 
-  * Application refers to Tic-Tac-Toe 過三關  (the "software"), the software program provided by the
+  * Application refers to Tic-Tac-Toe 過三關小遊戲 (the "software"), the software program provided by the
     author.
 
   * Device means any device that can access the Service such as a computer, a
