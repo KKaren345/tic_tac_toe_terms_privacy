@@ -22,7 +22,7 @@ For the purposes of this Privacy Policy:
     more of the shares, equity interest or other securities entitled to vote
     for election of directors or other managing authority.
 
-  * Application refers to Tic-Tac-Toe 過三關小遊戲 (the "software"), the software program provided by the
+  * Application refers to 過三關小遊戲 (the "software"), the software program provided by the
     author.
 
   * Device means any device that can access the Service such as a computer, a
